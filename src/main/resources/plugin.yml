@@ -1,0 +1,4 @@
+name: LassoThrow
+version: ${project.version}
+main: me.domirusz24.as.lassothrow.lassothrow.LassoThrow
+authors: [DomiRusz24]
